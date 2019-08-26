@@ -1,2 +1,4 @@
 # Task-on-git
-CV designed with html5 (no CSS or JS)
+Twitter url:- https://twitter.com/Eleojo_D/status/1165028720740114432?s=19
+
+Lucid blog:- https://lucid.blog/dickson24idoko/post/1566596043
