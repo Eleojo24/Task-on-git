@@ -1,3 +1,20 @@
 body {
-    background-color:aliceblue
+    background-color:aliceblue;
+}
+img {
+    border-radius: 100px;
+    
+}
+
+header {
+    background-image: url(https://res.cloudinary.com/dt6adjgra/image/upload/c_scale,e_blur:1207,h_399,q_89,w_1675/v1567078219/My%20Images/css%20pics/garrett-parker-DlkF4-dbCOU-unsplash_oqcfft.jpg
+);
+}
+img{
+    padding-top:15px;
+}
+
+h1, #para1{
+    font-family:serif;
+    color:ghostwhite;
 }
