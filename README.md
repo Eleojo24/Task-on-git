@@ -1,2 +1,2 @@
 # Task-on-git
-CV designed with html5 (no CSS or JS)
+CV designed with html5 and CSS (no JS)
