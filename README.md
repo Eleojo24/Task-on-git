@@ -1,2 +1,4 @@
 # Task-on-git
-CV designed with html5 and CSS (no JS)
+https://github.com/Eleojo24/Task-on-git.git
+https://github.com/Eleojo24/Task-on-git/edit/gitcss
+https://github.com/Eleojo24/Task-on-git/edit/gitcss/README.md
